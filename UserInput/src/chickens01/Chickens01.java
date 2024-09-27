@@ -21,7 +21,7 @@ public class Chickens01 {
     	int som2 = chi2 * egg2;
     	int som3 = chi3 * egg3;
     	
-    	 System.out.println("er zijn " + chi + " kippen en die leggen per kip " + egg + " eieren. dus ze leggen in totaal zo veel eieren : " + som);
+    	 System.out.println( + chi +  + egg + " eieren. dus ze leggen in totaal zo veel eieren : " + som);
     	 
     	 String Dag2 = "Dag2";
     	

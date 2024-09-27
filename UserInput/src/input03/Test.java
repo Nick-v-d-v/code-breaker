@@ -9,6 +9,8 @@ int x = 3;
 double y = 3.0;
 
 System.out.println(x == y);
+
+sysout ctr space enter
 	}
 
 }
